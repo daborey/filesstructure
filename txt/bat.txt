@@ -1,0 +1,3 @@
+Make a .bat that can run from any folder or copied to another PC and still work the same.
+Create a self-contained .bat installer that uses %USERPROFILE% and does not depend on its own location.
+Option 2: Make it self-locating (advanced) run any folder
