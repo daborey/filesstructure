@@ -1,0 +1,13 @@
+local win 
+---
+git add .
+git commit -m "force update"
+git push --force
+---
+
+remote win
+---
+git fetch
+git reset --hard origin/main
+---
+
